@@ -2,6 +2,17 @@
 
 Готовое тестовое задание: защищённая CRM для управления строительными объектами и задачами исполнителей.
 
+## Онлайн-демо
+
+- приложение: https://mini-crm-objects-tasks-nu.vercel.app
+- репозиторий: https://github.com/tango-boulevard/mini-crm-objects-tasks
+
+Тестовые аккаунты:
+
+- постановщик: `manager@local.test` / `Manager123!`;
+- исполнитель 1: `executor.one@local.test` / `Executor123!`;
+- исполнитель 2: `executor.two@local.test` / `Executor123!`.
+
 ## Возможности
 
 - вход по email и паролю через Supabase Auth;
@@ -76,6 +87,7 @@ Windows-скрипты полного цикла:
 - `docs/DATABASE.md` — миграции, seed и SQL-тесты;
 - `docs/LOCAL_DEMO.md` — аккаунты и сценарий демонстрации;
 - `docs/DEPLOYMENT.md` — публикация GitHub, Supabase и Vercel;
+- `docs/FUNCTIONAL_OVERVIEW.md` — пояснение функциональности для руководителя;
 - `docs/DECISIONS.md` — принятые продуктовые и технические решения;
 - `docs/SUBMISSION_MESSAGE.md` — готовый текст сообщения для hh.ru;
 - `docs/SUBMISSION_CHECKLIST.md` — финальная проверка перед сдачей;
