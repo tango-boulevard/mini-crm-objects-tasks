@@ -75,6 +75,8 @@ Windows-скрипты полного цикла:
 - `docs/STATUS_WORKFLOW.md` — автомат статусов и RPC-контракт;
 - `docs/DATABASE.md` — миграции, seed и SQL-тесты;
 - `docs/LOCAL_DEMO.md` — аккаунты и сценарий демонстрации;
+- `docs/DEPLOYMENT.md` — публикация GitHub, Supabase и Vercel;
 - `docs/DECISIONS.md` — принятые продуктовые и технические решения;
+- `docs/SUBMISSION_MESSAGE.md` — готовый текст сообщения для hh.ru;
 - `docs/SUBMISSION_CHECKLIST.md` — финальная проверка перед сдачей;
 - `AGENTS.md` — правила работы с проектом.
